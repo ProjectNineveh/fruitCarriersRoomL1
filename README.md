@@ -4,7 +4,7 @@
 
 # Gypsum relief South West Palace, Room L1
 
-![](other/screenshots/carriers.png)
+![](other/carriers.png)
 
 This repository contains source data to recreate a 3D model from the British Museum's Assyrian collection and currently on display in the Ahurbanipal exhibition.. The file structure is as follows:
 
